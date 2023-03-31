@@ -4,7 +4,6 @@ import Navbar from "./components/Navbar";
 import Profile from "./components/Profile";
 import profile from "./assets/image-amy.webp";
 import CTA from "./components/CTA";
-import Skill from "./components/Skill";
 import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import image1 from "./assets/image-slide-1.jpg";
