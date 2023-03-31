@@ -1,11 +1,12 @@
-import Footer from "./components/Footer";
-import Hero from "./components/Hero";
-import Navbar from "./components/Navbar";
-import Profile from "./components/Profile";
-import profile from "./assets/image-amy.webp";
-import CTA from "./components/CTA";
-import Skills from "./components/Skills";
-import Projects from "./components/Projects";
+import {
+  CTA,
+  Footer,
+  Hero,
+  Navbar,
+  Profile,
+  Projects,
+  Skills,
+} from "./components";
 import image1 from "./assets/image-slide-1.jpg";
 import image2 from "./assets/image-slide-2.jpg";
 import image3 from "./assets/image-slide-3.jpg";

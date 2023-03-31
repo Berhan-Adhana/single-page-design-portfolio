@@ -1,4 +1,3 @@
-import React from "react";
 import { motion } from "framer-motion";
 import skill from "../assets/pattern-graphic-design.svg";
 import UI from "../assets/pattern-ui-ux.svg";

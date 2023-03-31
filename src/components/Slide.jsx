@@ -1,5 +1,3 @@
-import React from "react";
-
 const Slide = ({ src, overlay }) => {
   return (
     <div
