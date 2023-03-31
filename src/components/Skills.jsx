@@ -9,7 +9,7 @@ import motionGraphics from "../assets/pattern-motion-graphics.svg";
 
 const Skills = () => {
   return (
-    <div className="flex flex-col app-container mt-8 items-center gap-y-6 xl:flex-row xl:gap-x-6">
+    <div className="flex app-container flex-col xl:justify-center mt-8 items-center gap-y-6 xl:flex-row xl:gap-x-6">
       {/* 1 */}
       {/* Wapper around the first and the second */}
       <div className="flex flex-col items-center gap-y-6 md:flex-row md:gap-x-6">
